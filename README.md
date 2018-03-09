@@ -1,6 +1,6 @@
 # ISO-Administracion_de_dominios
 
-## Realizado por **Eva Rodríguez Araujo** 
+### Realizado por Eva Rodríguez Araujo 
 
 *Creación de documento sobre cómo administrar dominios y los accesos al dominio en Windows Server 2016.*
 
