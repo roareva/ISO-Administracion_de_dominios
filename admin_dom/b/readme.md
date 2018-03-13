@@ -1,1 +1,10 @@
 # B. Se han administrado cuentas de usuario y cuentas de equipo.
+Para administrar cuentas de usuario y cuentas de equipo en un dominio sobre la terminal de comandos emplearemos el comando dsadd, el cuál se encarga de crear un objeto en el directorio.
+Para crear una cuenta de usuario usaremos dsadd user con sus respectivos parámetros, que como lo queremos añadir a una unidad organizativa, primero necesitaremos crear esta unidad organizativa, para la cuál usaremos dsadd ou, de manera que sería tal que así: `dsadd ou "OU=1CFGS, DC=roareva, DC=local"`, donde entre comillas quedan los datos asignados a la unidad organizativa que vamos a crear, donde OU será el nombre a recibir de la nueva unidad organizativa, y DC el dominio donde lo queremos añadir.
+Imagen 0
+Una vez tenemos la unidad organizativa creada, ya podemos proceder a crear una cuenta de usuario, que sigue la misma estructura que el anterior, salvo pequeños añadidos que le vamos a incorporar, por lo que nuestro comando sería: `dsadd user "CN=UsuarioEva, OU=1CFGS, DC=roareva, DC=local" -pwd *`, donde CN será el nombre de usuario que queremos asignarle, OU la unidad organizativa en la que queremos añadir este nuevo usuario, DC el dominio donde lo añadiremos, y el parámetro pwd * será para que nos pida la contraseña una vez ejecutado el comando.
+Imagen 1
+Ahora crearemos una cuenta de equipo con dsadd computer que también sigue la misma estructura que los anteriores, de manera que sería `dsadd computer "CN=EquipoEva, OU=1CFGS, DC=roareva, DC=local"`, donde en CN especificamos el nombre de equipo, en OU la unidad organizativa en la que la enlazaremos, y DC en el dominio que lo introduciremos.
+Imagen 2
+Y por último comprobamos que tenemos creado el nuevo usuario con el comando `net user`.
+Imagen 3
