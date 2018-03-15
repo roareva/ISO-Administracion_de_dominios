@@ -8,9 +8,9 @@ En este documento vamos a desarrollar el cómo administrar dominios y los acceso
 
 Para ello y para poder así también verificar su funcionamiento, utilizaremos máquinas virtuales, que en este caso, vamos a usar la última versión de Oracle VM VirtualBox.
 
-En primer lugar, tendríamos que descargarnos la respectiva ISO en la página oficial de Microsoft, que nos ofrece una versión de evaluación de dicho sistema por 180 días, y tras disponer finalmente de él, lo instalamos en nuestra máquina virtual ya sea con o sin interfaz gráfica, que en nuestro caso, hemos instalado la versión Standard sin interfaz gráfica, denominada como "Windows Server Core".
+En primer lugar, tendríamos que descargarnos la respectiva ISO en la página oficial de Microsoft, que nos ofrece una versión de evaluación de dicho sistema por 180 días, y tras disponer finalmente de él, lo instalamos en nuestra máquina virtual ya sea con o sin interfaz gráfica, que en nuestro caso, hemos instalado tanto la versión Standard sin interfaz gráfica, denominada como "Windows Server Core" como la versión GUI (interfaz gráfica).
 
-Una vez instalado dispondremos únicamente del cmd en la ventana del sistema, en el cuál podremos ejecutar tanto powershell como la herramienta de configuración de servidores Sconfig.cmd.
+Una vez instalada la versión Core dispondremos únicamente del cmd en la ventana del sistema, en el cuál podremos ejecutar tanto powershell como la herramienta de configuración de servidores Sconfig.cmd.
 
 Para el desarrollo de este documento vamos a seguir los siguientes apartados:
 
