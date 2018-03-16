@@ -1,5 +1,4 @@
 # F. Se han organizado los objetos del dominio para facilitar su administración.
 Para organizar los objetos del dominio para facilitar su administración necesitaremos crear `Unidades Organizativas`, que esta vez vamos a crearlas tanto por la terminal de comandos como por interfaz gráfica .
 Como definición de Unidad Organizativa tenemos:
-```Las Unidades organizativas proporcionan autonomía administrativa y los medios para controlar la visibilidad de los objetos en el directorio. Las unidades organizativas proporcionan aislamiento desde otros administradores de datos, pero no proporcionan el aislamiento de los administradores de servicio. Aunque los propietarios de unidad organizativa tienen control sobre un subárbol de objetos, el propietario de bosque conserva el control total sobre todos los subárboles.
-```
+> Las Unidades organizativas proporcionan autonomía administrativa y los medios para controlar la visibilidad de los objetos en el directorio. Las unidades organizativas proporcionan aislamiento desde otros administradores de datos, pero no proporcionan el aislamiento de los administradores de servicio. Aunque los propietarios de unidad organizativa tienen control sobre un subárbol de objetos, el propietario de bosque conserva el control total sobre todos los subárboles.
