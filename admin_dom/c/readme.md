@@ -1,8 +1,12 @@
 # C. Se ha centralizado la información personal de los usuarios del dominio mediante el uso de perfiles móviles y carpetas personales.
 De primera mano, ¿para qué sirven los perfiles móviles? Los perfiles de usuario móviles permiten que la información sobre el perfil de la cuenta de un usuario se almacene en el servidor.
+
 Usándolos, el usuario dispondrá de su perfil (documentos, favoritos de Internet, fondo de escritorio, etc.) con independencia del equipo cliente que esté utilizando en cada momento.
+
 Además, el administrador puede centralizar la copia de seguridad de los datos de todos los usuarios y puede sustituir los equipos clientes sin preocuparse de que se pierdan datos.
-Así pues, teniendo claro los conceptos, ahora procedemos a crearlos, que para ello, necesitaremos crear una carpeta en el servidor que actúe como contenedora de los perfiles, cambiar los permisos para que todos los usuarios del servidor puedan tener todo el control sobre esta carpeta creada y modificar la configuración del usuario para que guarde su perfil en la carpeta. 
+
+Así pues, teniendo claro los conceptos, ahora procedemos a crearlos en el Windows Server por interfaz gráfica, que para ello, necesitaremos crear una carpeta en el servidor que actúe como contenedora de los perfiles, cambiar los permisos para que todos los usuarios del servidor puedan tener todo el control sobre esta carpeta creada y modificar la configuración del usuario para que guarde su perfil en la carpeta. 
+
 Para crear una carpeta en el servidor que actué como contenedora de los perfiles, nos vamos al explorador de archivos y nos desplazamos a la carpeta donde queramos crearla, que en nuestro caso la hemos creado en el disco local C:\ y la hemos denominado "Perfiles"; una vez creada, hacemos sobre ella click derecho con el ratón y nos vamos "Propiedades", en la solapa de "Compartir".
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/c/0.jpg)
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/c/1.jpg)
