@@ -8,3 +8,4 @@ Ahora crearemos una cuenta de equipo con dsadd computer que también sigue la mi
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/b/2.jpg)
 Y por último comprobamos que tenemos creado el nuevo usuario con el comando `net user`.
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/b/3.jpg)
+--> [Siguiente apartado, apartado C](https://github.com/roareva/ISO-Administracion_de_dominios/tree/master/admin_dom/c)
