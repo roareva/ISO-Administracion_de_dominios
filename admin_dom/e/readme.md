@@ -14,8 +14,9 @@ Ahora hacemos click derecho sobre este usuario "Plantilla", nos vamos a sus prop
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/e/8.jpg)
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/e/9.jpg)
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/e/10.jpg)
-Aceptamos una vez que tengamos los datos que queríamos rellenos.
+
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/e/11.jpg)
+Aceptamos una vez que tengamos los datos que queríamos rellenos.
 Ya una vez creado, para copiar esta plantilla y así crear un nuevo usuario con los datos rellenos anteriormente, hacemos click derecho sobre esta cuenta de usuario "Plantilla" y seleccionamos la opción "Copiar", de manera que nos saldrá una ventana de "Copiar objeto: Usuario" la cuál rellenamos con los nuevos datos de usuario y contraseña y le damos a finalizar, así tendremos una copia de cuenta de usuario de nuestra plantilla de usuario.
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/e/12.jpg)
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/e/13.jpg)
