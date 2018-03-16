@@ -17,3 +17,4 @@ Una vez creada, podemos hacer click derecho sobre ella y rellenar los campos que
 Por lo tanto, ya en nuestro dominio disponemos de dos unidades organizativas, `1CFGS` y `2CFGS`, las cuales podremos administrar creando en ellas más objetos como usuarios, equipos, grupos, ...
 Nuestra unidad organizativa `1CFGS` queda distribuida de esta manera
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/f/5.jpg)
+--> [Siguiente apartado, apartado G](https://github.com/roareva/ISO-Administracion_de_dominios/tree/master/admin_dom/g)
