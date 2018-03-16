@@ -26,4 +26,4 @@ Una vez reiniciado, ya al iniciarse el equipo, podremos autenticarnos como admin
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/12.jpg)
 Para comprobar que se ha hecho efectivo el nuevo dominio, usamos de nuevo el sconfig.cmd y comprobamos que efectivamente es así, por lo tanto, ya hemos implementado un dominio en nuestro servidor. 
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/13.jpg)
---> Siguiente apartado, apartado B: (https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_dom/b/readme.md)
+--> [Siguiente apartado, apartado B:](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_dom/b/readme.md)
