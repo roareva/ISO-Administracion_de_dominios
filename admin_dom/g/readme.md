@@ -20,3 +20,4 @@ Mientras que versión Core:
 
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/g/0.jpg)
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/g/1.jpg)
+--> [Siguiente apartado, apartado H](https://github.com/roareva/ISO-Administracion_de_dominios/tree/master/admin_dom/h)
