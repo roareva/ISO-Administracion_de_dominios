@@ -17,5 +17,6 @@ Para concluir esta parte, dejamos las ventajas de la virtualización de un siste
 Nuestra máquina virtual con el Windows Server con la versión GUI es la siguiente:
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/g/w.jpg)
 Mientras que versión Core:
+
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/g/0.jpg)
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/g/1.jpg)
