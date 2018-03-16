@@ -1,5 +1,6 @@
 # E. Se han creado plantillas que faciliten la administración de usuarios con características similares.
 Para este apartado hay que resolver cierta cuestión, ¿qué utilidad tiene una plantilla de usuarios? Una de las tareas más comunes que se realizan en el Active Directory es la de crear cuentas de usuario, que es una tarea de lo más sencilla, pero que presenta problemas cuando se requiere crear múltiples usuarios en el Directorio Activo ya que supone mucho tiempo o es una tarea algo tediosa, así pues, para hacer este trabajo más llevadero, podemos crear plantillas de usuarios que nos faciliten la administración de usuarios con características similares y luego tan sólo tendremos que copiarla y modificar los datos que queramos.
+
 Para la creación de dicha plantilla crearemos una cuenta de usuario con los datos que creamos necesarios, que en este caso vamos a asignarle el nombre "Plantilla", le ponemos una contraseña y le damos a finalizar.
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/e/0.jpg)
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/e/1.jpg)
