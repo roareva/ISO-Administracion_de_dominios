@@ -22,3 +22,4 @@ Para eliminar miembros del grupo es el mismo proceso para añadirlos, pero en lu
 Para eliminar un grupo simplemente hacemos click derecho sobre el grupo que queremos eliminar y seleccionamos la opción "Eliminar" del menú de contexto que nos aparece, nos pedirá confirmación y aceptamos.
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/d/9.jpg)
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/d/10.jpg)
+--> [Siguiente apartado, apartado E](https://github.com/roareva/ISO-Administracion_de_dominios/tree/master/admin_dom/E)
