@@ -27,3 +27,4 @@ Para comprobar que verdaderamente se han copiado los datos introducidos de la cu
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/e/17.jpg)
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/e/18.jpg)
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/img/e/19.jpg)
+--> [Siguiente apartado, apartado F](https://github.com/roareva/ISO-Administracion_de_dominios/tree/master/admin_dom/f)
