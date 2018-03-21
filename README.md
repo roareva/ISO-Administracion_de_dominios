@@ -4,7 +4,7 @@
 
 *Creación de documento sobre cómo administrar dominios y los accesos al dominio en Windows Server 2016.*
 
-En este documento vamos a desarrollar el cómo administrar dominios y los accesos al dominio en Windows Server 2016.
+En este documento vamos a desarrollar dos secciones, una primera parte de cómo administrar dominios y, una segunda, manejar los accesos al dominio en Windows Server 2016.
 
 Para ello y para poder así también verificar su funcionamiento, utilizaremos máquinas virtuales, que en este caso, vamos a usar la última versión de Oracle VM VirtualBox.
 
