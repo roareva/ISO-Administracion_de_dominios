@@ -36,3 +36,5 @@ De forma predeterminada, el sistema nos ofrece iniciar sesión con el último us
 Una vez reiniciado, comprobaremos que efectivamente nuestro equipo Windows 10 está unido correctamente al dominio.
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_access_dom/img/a/4.jpg)
 Realizamos exactamente los mismos pasos para nuestra otra máquina virtual con también Windows 10 como sistema operativo.
+
+--> [Siguiente apartado, apartado B](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_access_dom/b/readme.md)
