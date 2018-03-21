@@ -12,7 +12,9 @@ En primer lugar, tendríamos que descargarnos la respectiva ISO en la página of
 
 Una vez instalada la versión Core dispondremos únicamente del cmd en la ventana del sistema, en el cuál podremos ejecutar tanto powershell como la herramienta de configuración de servidores Sconfig.cmd.
 
-Para el desarrollo de este documento vamos a seguir los siguientes apartados:
+Para el desarrollo de este documento vamos a dividirlo en las dos secciones comentadas anteriormente con sus respectivos apartados:
+
+**1. Administración de dominios:**
 
 - [A - Se han implementado dominios.](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_dom/a/readme.md)
 
@@ -29,3 +31,19 @@ Para el desarrollo de este documento vamos a seguir los siguientes apartados:
 - [G - Se han utilizado máquinas virtuales para administrar dominios y verificar su funcionamiento.](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_dom/g/readme.md)
 
 - [H - Se ha documentado la estructura del dominio y las tareas realizadas.](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_dom/h/readme.md)
+
+**2. Administración del acceso al dominio:**
+
+- A - Se han incorporado equipos al dominio.
+
+- B- Se han previsto bloqueos de accesos no autorizados al dominio.
+
+- C - Se ha administrado el acceso a recursos locales y recursos de red.
+
+- D - 	Se han tenido en cuenta los requerimientos de seguridad.
+
+- E - Se han implementado y verificado directivas de grupo.
+
+- F - Se han asignado directivas de grupo.
+
+- G - Se han documentado las tareas y las incidencias.
