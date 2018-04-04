@@ -7,4 +7,14 @@ Como administradores que tienen acceso al sistema, en Windows Server podremos te
 
 Como parte de documentación en este apartado, vamos a ver cómo podemos crear políticas asociadas a la contraseña y bloqueo de cuentas en Windows Server 2016.
 
- 
+En Windows Server se implementaron políticas de contraseñas estrictas con el fin de optimizar y mejorar los niveles de seguridad en la organización. Estas políticas serán aplicadas a los objetos Usuarios o a las Organizaciones, según se decida.
+
+Al implementar una política de contraseñas en la organización podemos asegurarnos de que que mejorará de forma notable la seguridad y acceso a los equipos cliente al forzar el ingreso de determinados parámetros de contraseñas. Las recomendaciones para establecer una correcta política de contraseñas son:
+
+- Establecer "Exigir historial de contraseñas a 24" ya que esto nos ayudará a prevenir múltiples vulnerabilidades provocados por la reutilización de contraseñas.
+- Establecer "Vigencia máxima de la contraseña 60 días" al forzar la caducidad de las contraseñas entre los ciclos de negocios principales para evitar la pérdida de trabajo.
+- Configurar "Vigencia mínima de contraseña" para que no se permitan cambios inmediatos de contraseñas.
+
+Es vital configurar de forma adecuada nuestras políticas para evitar ataques y fallos de seguridad en el acceso de los usuarios.
+
+Para poder configurar las políticas de contraseñas en Windows Server 2016 debemos irnos al 
