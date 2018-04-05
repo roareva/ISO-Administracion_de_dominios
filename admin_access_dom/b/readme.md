@@ -63,3 +63,5 @@ Esta política nos permite definir la cantidad de tiempo en la cual la cuenta in
 Esta política nos permite definir la cantidad de tiempo en la cual la cuenta involucrada permanecerá bloqueada y este tiempo se expresa en minutos en un rango entre 1 y 99.999 minutos; Si establecemos el valor 0 solo un administrador podrá desbloquear dicha cuenta.
 - Umbral de bloqueo de cuenta
 Esta es la política que nos permite llevar un control especial en términos de seguridad ya que allí definiremos la cantidad de intentos de inicio de sesión fallidos antes de que la cuenta sea bloqueada. Si el valor está en cero la cuenta no será bloqueada, por lo que esa opción no es recomendable. Aquí podremos definir un valor entre 0 y 999. Esta política es la principal para los bloqueos de accesos, ya que una vez bloqueada por intentos de sesión fallidos, sólo un administrador tendrá el derecho para deshabilitarla.
+
+--> [Siguiente apartado, apartado C](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_access_dom/c/readme.md)
