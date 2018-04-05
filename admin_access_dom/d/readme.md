@@ -66,5 +66,7 @@ En nuestro caso, en el panel derecho aparece un mensaje indicando que hay actual
 Esperamos a que termine el proceso de instalación de las actualizaciones.
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_access_dom/img/d/21.jpg)
 Tras la instalación es necesario reiniciar el sistema para terminar de instalar algunas actualizaciones y ya por último sólo nos quedaría esperar hasta que se complete el reinicio del equipo para que nuestro sistema esté totalmente actualizado.
+![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_access_dom/img/d/22.jpg)
+![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_access_dom/img/d/23.jpg)
 
 --> [Siguiente apartado, apartado E](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_access_dom/e/readme.md)
