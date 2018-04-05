@@ -56,3 +56,5 @@ Hasta este punto el cliente podrá ve ambas carpetas al conectarse por red a la 
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_access_dom/img/c/14.jpg)
 pero si editamos los permisos, por ejemplo, a la carpeta `Acceso` para que dicho usuario no pueda acceder, el usuario ya no vera dicha carpeta al momento de conectarse. Como vemos, la carpeta `Acceso` ha sido ocultada por Windows Server 2016 gracias a la característica que hemos habilitado.
 ![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_access_dom/img/c/15.jpg)
+
+--> [Siguiente apartado, apartado D](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_access_dom/d/readme.md)
