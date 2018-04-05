@@ -15,16 +15,18 @@ Existen una serie de requisitos básicos y simples para usar e implementar de fo
 Existen dos tipos de GPO, de dominio y locales, que implica que la política de grupo basada en el dominio nos da la posibilidad de centralizar la administración de modo que una sola política creada puede afectar a todos los equipos del dominio a la vez, mientras que la política de grupo local requiere que cada máquina a configurar se haga directamente en ella, lo cual implica más trabajo administrativo.
 
 Vamos a proceder a crear una GPO en Windows Server 2016, para ello vamos a usar la combinación de teclas Windows+R y ejecutaremos el comando `gpmc.msc` y pulsamos Enter.
-Imagen 0
-Imagen 1
+![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_access_dom/img/e/0.jpg)
+![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_access_dom/img/e/1.jpg)
 Hacer especial inciso en que por defecto, las políticas de grupo en Windows Server 2016 viene con dos políticas por defecto:
 - Default Domain Controllers Policy: Cuando instalamos el rol del servidor de AD DS se crea esta política de forma predeterminada, dentro de ella encontramos configuraciones de políticas que se aplican específicamente a los controladores de dominio creados.
 - Default Domain Policy: Igual que la anterior, cuando se instala el rol de servidor de AD DS se crea esta política por defecto y dentro de ella encontramos configuraciones de políticas que se aplican a todas los equipos y usuarios en el dominio.
 En el nivel superior del AD DS (Active Directory Domain Server) encontramos sitios y dominios. Cuando se crea un dominio simple, estas tendrán un único sitio y un solo dominio. Y dentro de un dominio será posible crear unidades organizativas (OU).
-Imagen 2
+![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_access_dom/img/e/2.jpg)
 Sigamos; en la ventana desplegada daremos clic derecho sobre nuestro dominio y seleccionamos la opción `Crear un GPO en este dominio y vincularlo aquí`
-Imagen 3
+![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_access_dom/img/e/3.jpg)
 Se desplega una ventana donde asignaremos un nombre a dicha GPO y aceptamos
-Imagen 4
+![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_access_dom/img/e/4.jpg)
 Vemos que se ha creado la GPO según nuestro criterio. De esta forma tan simple hemos creado una política de grupo o GPO en Windows Server 2016.
-Imagen 5
+![img](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_access_dom/img/e/5.jpg)
+
+--> [Siguiente apartado, apartado F](https://github.com/roareva/ISO-Administracion_de_dominios/blob/master/admin_access_dom/f/readme.md)
